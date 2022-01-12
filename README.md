@@ -3,8 +3,7 @@ This is modern web3.0 website
 
 What is Web3.0 ?
 
-
-Also known as the decentralized web, Web 3.0 is the third version of the Internet, which is an improvement over the current Web 2.0 Internet. Under Web 2.0, Internet has become more social. ... The third version of the internet will have more transparency and boast massive content that will be accessible to all
+Web 3.0 is the upcoming third generation of the internet where websites and apps will be able to process information in a smart human-like way through technologies like machine learning (ML), Big Data, decentralized ledger technology (DLT), etc. Web 3.0 was originally called the Semantic Web by World Wide Web inventor Tim Berners-Lee, and was aimed at being a more autonomous, intelligent, and open internet.
 
 
 
