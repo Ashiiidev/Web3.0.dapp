@@ -9,4 +9,6 @@ What is metamask?
 
 MetaMask is a software cryptocurrency wallet used to interact with the Ethereum blockchain. It allows users to access their Ethereum wallet through a browser extension or mobile app, which can then be used to interact with decentralized applications.[1][2] MetaMask is developed by ConsenSys Software Inc., a blockchain software company focusing on Ethereum-based tools and infrastructure
 
+What is a dapp ?
 
+A decentralized app (also known as a dApp or dapp) operates on a blockchain or peer-to-peer network of computers. It enables users to engage in transactions directly with one another as opposed to relying on a central authority. The user of a dApp will pay the developer an amount of cryptocurrency to download and use the program's source code. The source code is known as a smart contract, which allows users to complete transactions without revealing personal information.
