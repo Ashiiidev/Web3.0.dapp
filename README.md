@@ -12,3 +12,5 @@ MetaMask is a software cryptocurrency wallet used to interact with the Ethereum 
 What is a dapp ?
 
 A decentralized app (also known as a dApp or dapp) operates on a blockchain or peer-to-peer network of computers. It enables users to engage in transactions directly with one another as opposed to relying on a central authority. The user of a dApp will pay the developer an amount of cryptocurrency to download and use the program's source code. The source code is known as a smart contract, which allows users to complete transactions without revealing personal information.
+
+![image](https://user-images.githubusercontent.com/87383186/161417155-035d6f81-d20b-4748-86f7-dde0b8224e8a.png)
